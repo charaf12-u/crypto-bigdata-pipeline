@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/logo.png" width="75%"/>
+<img src="assets/images/logo.png" width="23%"/>
 
 <br><br>
 
@@ -61,7 +61,7 @@ The pipeline follows a clear and robust lineage, moving data through ingestion, 
 
 <div align="center">
 <p align="center">
-<img src="assets/images/Architecture end-to-end du pipeline.png" width="95%">
+<img src="assets/images/Architecture end-to-end du pipeline.png" width="45%">
 </p>
 </div>
 
@@ -81,7 +81,7 @@ The data warehouse uses a **Star Schema** designed to optimize analytical querie
 
 <div align="center">
 <p align="center">
-<img src="assets/images/start_shema.png" width="95%">
+<img src="assets/images/start_shema.png" width="45%">
 </p>
 </div>
 
